@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AdversaryHealthBar
+comment1.params=attachedTo
+comment1.target=AdversaryHealthBar(Adversary)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ test()
+comment4.params=
+comment4.target=void\ update()
+numComments=5

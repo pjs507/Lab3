@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment1.params=
+comment1.target=MainMenu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ initializeGameTitle()
+comment3.text=\ \r\n\ Initializes\ variables\ for\ game\ title\ animation.\ \r\n
+comment4.params=
+comment4.target=void\ animateGameTitle()
+comment4.text=\r\n\ Animates\ game\ title\ by\ swapping\ two\ images\ after\ every\r\n\ change_after_fps\ frames.\ \r\n\ \r\n\ Logic\:\ dummy_i\ starts\ off\ as\ 0\ and\ every\ frames\ gets\ incremented\r\n\ \ \ \ \ \ \ \ by\ 1.\ At\ 50,\ it\ reset\ to\ 0\ and\ current\ images\ swaps.\ \r\n\ \ \ \ \ \ \ \ New\ image\ is\ picked\ off\ of\ dummy_j's\ value\:\ 0\ and\ 1.\ \r\n
+comment5.params=
+comment5.target=void\ scroll()
+comment6.params=
+comment6.target=void\ prepare()
+numComments=7
