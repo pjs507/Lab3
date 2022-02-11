@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Sound
+comment1.params=sound_name
+comment1.target=void\ initializeSound(java.lang.String)
+comment2.params=
+comment2.target=void\ playSound()
+comment3.params=
+comment3.target=void\ pauseSound()
+comment4.params=
+comment4.target=void\ stopSound()
+comment5.params=amout
+comment5.target=void\ setVolume(int)
+comment6.params=
+comment6.target=void\ started()
+comment7.params=
+comment7.target=void\ stopped()
+numComments=8
